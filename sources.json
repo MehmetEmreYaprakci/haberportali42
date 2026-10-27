@@ -1,0 +1,206 @@
+[
+  {
+    "name": "TRT Son Dakika",
+    "url": "https://www.trthaber.com/sondakika_articles.rss",
+    "group": "Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "TRT Türkiye",
+    "url": "https://www.trthaber.com/turkiye_articles.rss",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "TRT Ekonomi",
+    "url": "https://www.trthaber.com/ekonomi_articles.rss",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "TRT Gündem",
+    "url": "https://www.trthaber.com/gundem_articles.rss",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "TRT Dünya",
+    "url": "https://www.trthaber.com/dunya_articles.rss",
+    "group": "Dünya",
+    "enabled": true
+  },
+  {
+    "name": "TRT Spor",
+    "url": "https://www.trthaber.com/spor_articles.rss",
+    "group": "Spor",
+    "enabled": true
+  },
+  {
+    "name": "TRT Teknoloji",
+    "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
+    "group": "Teknoloji",
+    "enabled": true
+  },
+  {
+    "name": "Merhaba Haber Konya",
+    "url": "https://www.merhabahaber.com/service/rss.php?cid=141",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya'nın Sesi Yerel",
+    "url": "https://www.konyaninsesi.com.tr/rss/haberler/konya-haberleri/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya'nın Sesi Son Dakika",
+    "url": "https://www.konyaninsesi.com.tr/rss/sondakika/",
+    "group": "Konya Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Haber Konya",
+    "url": "https://www.yenihaberden.com/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Haber Asayiş",
+    "url": "https://www.yenihaberden.com/rss/haberler/asayis/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Meram Konya",
+    "url": "https://www.yenimeram.com.tr/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya Ekspres Yerel",
+    "url": "https://www.konyaekspres.com/rss/category/yerel",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Merhaba Haber İlçeler",
+    "url": "https://www.merhabahaber.com/service/rss.php?cid=35",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Habertürk Manşet",
+    "url": "https://www.haberturk.com/rss/manset.xml",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Habertürk Ekonomi",
+    "url": "https://www.haberturk.com/rss/ekonomi.xml",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Mekanizasyon",
+    "url": "https://www.tarimturk.com.tr/rss/mekanizasyon.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Bitkisel Üretim",
+    "url": "https://www.tarimturk.com.tr/rss/bitkisel_uretim.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Hayvancılık",
+    "url": "https://www.tarimturk.com.tr/rss/hayvancilik.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Eskil Gazetesi Tarım",
+    "url": "https://eskilgazetesi.com/rss/tarim.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "AA Teyit Hattı",
+    "url": "https://www.aa.com.tr/tr/teyithatti/rss/news?cat=0",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Gazete Vatan Gündem",
+    "url": "https://www.gazetevatan.com/rss/gundem.xml",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Gazete Vatan Ekonomi",
+    "url": "https://www.gazetevatan.com/rss/ekonomi.xml",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Son Dakika",
+    "url": "https://www.mynet.com/haber/rss/sondakika",
+    "group": "Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Güncel",
+    "url": "https://www.mynet.com/haber/rss/kategori/guncel/",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Dünya",
+    "url": "https://www.mynet.com/haber/rss/kategori/dunya/",
+    "group": "Dünya",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Konya",
+    "url": "https://www.hakimiyet.com/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Son Dakika",
+    "url": "https://www.hakimiyet.com/rss/sondakika/",
+    "group": "Konya Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Asayiş",
+    "url": "https://www.hakimiyet.com/rss/haberler/asayis/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Haber Dairesi",
+    "url": "https://news.google.com/rss/search?q=site%3Ahaberdairesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://haberdairesi.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  },
+  {
+    "name": "Konhaber",
+    "url": "https://news.google.com/rss/search?q=site%3Akonhaber.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.konhaber.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  },
+  {
+    "name": "Konya Gündem",
+    "url": "https://news.google.com/rss/search?q=site%3Akonyagundem.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://konyagundem.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  }
+]
